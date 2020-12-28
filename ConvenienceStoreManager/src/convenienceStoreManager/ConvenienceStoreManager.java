@@ -10,7 +10,7 @@ import java.util.List;
 public class ConvenienceStoreManager {
 
 	// Instance Variables
-	private List<Product> yetToBeStocked = null;
+	private List<Product> yetToBeStocked;
 	private List<Product> storeCurrentInventory;
 
 	// Constructor
